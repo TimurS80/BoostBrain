@@ -38,7 +38,7 @@ public class Collections {
                 System.out.println(map.get("Qt Gui"));
 
                 for (String key : map.keySet()) {
-                    System.out.println("1: "+ key + "      2 : " + map.get(key));
+                    System.out.println("1: " + key + "  2 : " + map.get(key));
 
                 }
 
@@ -58,4 +58,5 @@ public class Collections {
         }
     }
 }
+
 
